@@ -1,0 +1,44 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Society",
+      "Global Poverty"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Developmental Economics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Social Welfare"
+    ],
+    [
+      "Business",
+      "Globalization"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "6bd4d78d-e43c-92e0-857f-5d594fb6ea4f",
+      "601a8d40-da60-8ad0-ea65-d4ed75b72477"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "The Challenge of World Poverty",
+  "course_description": "This is a course for those who are interested in the challenge posed by massive and persistent world poverty, and are hopeful that economists might have something useful to say about this challenge. The questions we will take up include: Is extreme poverty a thing of the past? What is economic life like when living under a dollar per day? Why do some countries grow fast and others fall further behind? Does growth help the poor? Are famines unavoidable? How can we end child labor\u2014or should we? How do we make schools work for poor citizens? How do we deal with the disease burden? Is micro finance invaluable or overrated? Without property rights, is life destined to be \"nasty, brutish and short\"? Has globalization been good to the poor? Should we leave economic development to the market? Should we leave economic development to non-governmental organizations (NGOs)? Does foreign aid help or hinder? Where is the best place to intervene?\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.73",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
